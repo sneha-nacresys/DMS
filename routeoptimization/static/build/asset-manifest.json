@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.ad9d8c03.css",
-    "main.js": "/static/js/main.8f7700a2.js",
+    "main.js": "/static/js/main.3d552a62.js",
     "static/media/PurveyLogo.png": "/static/media/PurveyLogo.6b69b01b608b504badde.png",
     "static/media/purvey_apora_black.png": "/static/media/purvey_apora_black.956935dc31ff5bd48529.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.ad9d8c03.css.map": "/static/css/main.ad9d8c03.css.map",
-    "main.8f7700a2.js.map": "/static/js/main.8f7700a2.js.map"
+    "main.3d552a62.js.map": "/static/js/main.3d552a62.js.map"
   },
   "entrypoints": [
     "static/css/main.ad9d8c03.css",
-    "static/js/main.8f7700a2.js"
+    "static/js/main.3d552a62.js"
   ]
 }

@@ -27,7 +27,8 @@ def parse_duration(duration):
 class RouteOptimizationView(APIView):
     def post(self, request):
         # Load API key securely from environment variables
-        api_key = os.getenv("GOOGLE_API_KEY")
+        # api_key = os.getenv("GOOGLE_API_KEY")
+        api_key='AIzaSyAGU_QPzCeqFONmuNZPRukCB0HsKa1TrqY'
         print("---API KEY:---",api_key)
         # Extract start, end locations, and waypoints from the request data
         start_location = request.data.get("start_location")
